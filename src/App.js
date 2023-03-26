@@ -4,10 +4,10 @@ import Result from './components/Result';
 
 function App() {
   return (
-    <>
+    <div className="mainDiv">
     <Search />
     <Result />
-    </>
+    </div>
   );
 }
 

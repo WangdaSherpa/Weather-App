@@ -1,0 +1,11 @@
+[33mcommit 422231d81b3585f70a46bd76af9cfab9acdf085d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Wang Da <hellowangda2k3@gmail.com>
+Date:   Sun Mar 26 20:22:24 2023 +0545
+
+    Project Setup
+
+[33mcommit 8edc4f9828528cb00f76388c02803910d1216b99[m
+Author: Wang Da <hellowangda2k3@gmail.com>
+Date:   Sun Mar 26 20:19:43 2023 +0545
+
+    Initialize project using Create React App
